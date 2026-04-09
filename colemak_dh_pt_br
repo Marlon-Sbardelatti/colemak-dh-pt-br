@@ -18,7 +18,7 @@ xkb_symbols "colemak_dh" {
 
     key <AD01> { [            q,            Q,      dead_acute,       Adiaeresis ] };
     key <AD02> { [            w,            W, dead_circumflex,            Aring ] };
-    key <AD03> { [            f,            F,          atilde,           Atilde ] };
+    key <AD03> { [            f,            F,      dead_tilde,           Atilde ] };
     key <AD04> { [            p,            P,            plus,         Ooblique ] };
     key <AD05> { [            b,            B,           equal,       asciitilde ] };
     key <AD06> { [            j,            J,         dstroke,          Dstroke ] };
